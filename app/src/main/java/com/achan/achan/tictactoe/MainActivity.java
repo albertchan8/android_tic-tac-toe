@@ -1,10 +1,10 @@
 package com.achan.achan.tictactoe;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.app.AlertDialog;
 import android.content.DialogInterface;
-import android.content.res.Configuration;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
